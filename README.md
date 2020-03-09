@@ -12,4 +12,4 @@ Try the app at http://flixterv2-ulises-cadena.herokuapp.com/
 <br />
 <img src="app/assets/images/flixterCourse.png" alt="Course page screenshot">
 <br />
-<img src="app/assets/images/flixterPayment.png" alt="Payment screenshot">
+<img src="app/assets/images/FlixterPayment.png" alt="Payment screenshot">
