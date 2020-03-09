@@ -54,13 +54,48 @@
 
   <%= yield %>
   </div>
- <div id="footer">
-    <div class="container">
-      <b>Teachers</b>
-      <br />
-      <%= link_to 'Teach a Course', new_instructor_course_path %>
+
+<div id="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-3">
+        <b>Teachers</b>
+        <br />
+        <%= link_to 'Teach a Course', new_instructor_course_path %>
+        <br />
+        <%= link_to 'My Dashboard', dashboards_path %>
+      </div>
+      <div class="col-12 col-sm-3">
+        <b>About</b>
+        <br />
+        <%= link_to 'Team', '#' %>
+        <br />
+        <%= link_to 'Careers', '#' %>
+        <br />
+        <%= link_to 'Privacy Policy', '#' %>
+      </div>
+      <div class="col-12 col-sm-3">
+        <b>Contact</b>
+        <br />
+        ucadena07@gmail.com
+        <br />
+        319 Losey Blvd N.
+        <br />
+        La Crosse, WI 54601
+      </div>
+      <div class="col-12 col-sm-3 social">
+        <b>Social</b>
+          <br />
+          <br />
+          <%= link_to 'http://github.com/ucadena07' do %>
+            <span class="fa fa-github-square fa-2x social-button"></span>
+          <% end %>
+            <span class="fa fa-facebook-square fa-2x social-button"></span>
+            <span class="fa fa-twitter-square fa-2x social-button"></span>
+      </div>
     </div>
   </div>
+</div>
 
     <script src="https://vjs.zencdn.net/5.12.6/video.js"></script>
     <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
