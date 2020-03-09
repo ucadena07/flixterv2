@@ -8,8 +8,8 @@ Try the app at http://flixterv2-ulises-cadena.herokuapp.com/
 
 <img src="app/assets/images/flixterfront.png" alt="front page screenshot">
 <br />
-<img src="flixterDash.png" alt="Dashboard page screenshot">
+<img src="app/assets/images/flixterDash.png" alt="Dashboard page screenshot">
 <br />
-<img src="flixterCourse.png" alt="Course page screenshot">
+<img src="app/assets/images/flixterCourse.png" alt="Course page screenshot">
 <br />
-<img src="flixterPayment.png" alt="Payment screenshot">
+<img src="app/assets/images/flixterPayment.png" alt="Payment screenshot">
