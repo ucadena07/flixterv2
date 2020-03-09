@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A two-sided, video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces, and advanced database relationships.
 
-Things you may want to cover:
+Try the app at http://flixterv2-ulises-cadena.herokuapp.com/
 
-* Ruby version
+* ruby '2.5.3'
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img src="flixterfront.png" alt="front page screenshot">
+<br />
+<img src="flixterDash.png" alt="Dashboard page screenshot">
+<br />
+<img src="flixterCourse.png" alt="Course page screenshot">
+<br />
+<img src="flixterPayment.png" alt="Payment screenshot">
